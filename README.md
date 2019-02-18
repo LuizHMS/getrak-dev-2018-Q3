@@ -9,7 +9,7 @@ embora não tive um cronometro para mensurar.
 
 Optei por uma abordagem mais simples e sem me preocupar com perfumaria.
 
-#instruções:
+# instruções:
 
 Coloque os arquivos index.html e main.js no mesmo diretório e abra em um navegador.
 
